@@ -1,0 +1,17 @@
+Progressive Web Apps
+    - Additional feature added to the Web Apps to behave/look like a native mobile apps.
+
+    Features
+        Load fast and provides a offline functional.
+        Enables to send push notfications.
+        Quick user interactions.
+        Home screen icons.
+        Acces device features like camera, GPS etc.
+	
+Core building blocks of PWA
+	Service worker
+		JavaScript running in the background.
+		Provides support for offline & caching mechanisms
+		Enables other PWA features
+		Send/Receive data to the servers when the data connection is live.
+		Send push notifications
